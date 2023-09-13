@@ -1,7 +1,7 @@
 {
-  "name": "gtxy-cicd-web",
-  "version": "0.0.5",
-  "description": "gtxy-cicd-web",
+  "name": "gtxy-cicd-uni-app",
+  "version": "0.0.1",
+  "description": "gtxy-cicd-uni-app",
   "keywords": [
     "cicd"
   ],
@@ -20,7 +20,8 @@
     "access": "public"
   },
   "dependencies": {
-    "ssh2-sftp-client": "^9.1.0"
+    "ssh2-sftp-client": "^9.1.0",
+    "chokidar": "^3.5.3"
   },
   "peerDependencies": {}
 }
