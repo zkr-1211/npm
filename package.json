@@ -1,0 +1,26 @@
+{
+  "name": "gtxy-cicd-web",
+  "version": "0.0.5",
+  "description": "gtxy-cicd-web",
+  "keywords": [
+    "cicd"
+  ],
+  "author": "zkr",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "dependencies": {
+    "ssh2-sftp-client": "^9.1.0"
+  },
+  "peerDependencies": {}
+}
