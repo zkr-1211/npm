@@ -1,7 +1,7 @@
 {
-  "name": "gtxy-cicd-uni-app",
-  "version": "0.0.2",
-  "description": "gtxy-cicd-uni-app",
+  "name": "gtxy-cicd",
+  "version": "1.0.0",
+  "description": "gtxy-cicd",
   "keywords": [
     "cicd"
   ],
