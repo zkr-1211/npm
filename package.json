@@ -1,7 +1,8 @@
 {
-  "name": "gtxy-cicd",
-  "version": "1.0.1",
-  "description": "gtxy-cicd",
+  "name": "gtxy-sftp",
+  "version": "1.0.0",
+  "description": "gtxy-sftp",
+  "private": false,
   "keywords": [
     "cicd"
   ],
@@ -16,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org",
+    "registry": "http://本地IP地址:4873/",
     "access": "public"
   },
   "dependencies": {
